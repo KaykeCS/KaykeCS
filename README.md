@@ -2,7 +2,7 @@
 
 ### **🎓 Sobre Mim:**
 
-- 🌍 Sou do Rio Grande do Sul.
+- 🌍 Sou de Porto Alegre/RS.
 * 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ritter dos Reis (UniRitter).
 + 💻 Desenvolvedor Web e .NET apaixonado por desenvolver softwares e solucionar problemas.
 
@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
