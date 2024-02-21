@@ -4,7 +4,7 @@
 
 - 🌍 Sou de Porto Alegre/RS.
 * 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ritter dos Reis (UniRitter).
-+ 💻 Desenvolvedor Web e .NET apaixonado por desenvolver softwares e solucionar problemas.
++ 💻 Desenvolvedor Full Stack apaixonado por desenvolver softwares e solucionar problemas.
 
 ### **👩‍💻 Interesses Profissionais:**
 
